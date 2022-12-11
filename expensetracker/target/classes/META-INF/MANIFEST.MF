@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ajinkyah
+Build-Jdk: 17.0.4
+Implementation-Title: expensetracker
+Implementation-Version: v1
+Implementation-Vendor-Id: in.bushansirgur
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/expensetracke
+ r
+Created-By: Maven Integration for Eclipse
+
